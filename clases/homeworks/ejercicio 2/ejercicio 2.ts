@@ -51,4 +51,5 @@ let iDontKnow: unknown = "typescript";
 //ejercicio
 let nowIKnow: string = iDontKnow as string; //utiliza el casteo explicito para asignarle a nowIKnow un string;
 
+
 export {}
